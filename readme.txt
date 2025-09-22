@@ -41,3 +41,6 @@ DISCLAIMER
 
 * I know it isn’t perfect. This is a university project. Feedback is welcome!
   Questions or suggestions: eliancervantes4411@alumnos.udg.mx
+
+License: Prosperity Public License 3.0.0 — free for non-commercial use.
+Commercial use requires a separate license. Contact: eliancervantes147@gmail.com
