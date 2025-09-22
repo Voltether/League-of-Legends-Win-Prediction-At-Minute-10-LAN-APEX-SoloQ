@@ -40,4 +40,4 @@ DISCLAIMER
 * I’m a physicist transitioning into data science; the project is a work in progress and will continue to evolve toward a more formal data-science standard (I’m targeting a Data Science master’s program).
 
 * I know it isn’t perfect. This is a university project. Feedback is welcome!
-  Questions or suggestions: eliancervantes4411@alumnos.udg.mx
+  Questions or suggestions: elian.cervantes4411@alumnos.udg.mx
